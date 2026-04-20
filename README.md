@@ -81,3 +81,7 @@ FundamentalsCqrs
 - **Logging**: Implements logging mechanisms for monitoring and diagnosing application behavior.
 - **DependencyInjection**: Configures and manages the application's dependencies, ensuring loose coupling and testability.
 - **Exceptions**: Centralized handling of exceptions, providing consistent error responses and logging.
+## Documentation
+- [Overview](docs/overview.md)
+- [Architecture](docs/architecture.md)
+- [Repository Prompt](docs/repository-prompt.md)
